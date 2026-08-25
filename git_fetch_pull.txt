@@ -1,2 +1,2 @@
 fetch command working added new file not getting conflict, now add some data in same file to check the conflict and how it will show on terminal.
-
+need to check merge command
